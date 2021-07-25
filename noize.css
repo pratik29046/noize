@@ -1,0 +1,216 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.logo {
+  margin-left: 10px;
+}
+#imgs {
+  width: 209px;
+  height: 64px;
+}
+
+.nav-item a {
+  text-align: center;
+  margin-left: 80px;
+  font-family: cursive;
+  font-size: 20px;
+}
+.nav-item a:hover {
+  color: rgb(22, 20, 20);
+  font-size: 20px;
+  padding-top: 3px;
+  background-color: rgb(255, 0, 157);
+  border-radius: 20%;
+  text-decoration: underline;
+  font-weight: bold;
+  transition: 2s;
+}
+#fass {
+  color: rgb(221, 200, 200);
+  font-size: 36px;
+  text-align: center;
+  margin-left: 92px;
+  margin-top: 7px;
+}
+#fass:hover {
+  color: rgb(224, 18, 214);
+  padding-top: 3px;
+}
+
+.text {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 220px 220px;
+  color: white;
+  font-size: 90px;
+  width: cover;
+}
+.text:hover {
+  transition: 5s;
+  color: yellowgreen;
+  font-weight: bolder;
+  opacity: 0.2;
+  font-size: 85px;
+  text-transform: lowercase;
+  font-family: cursive;
+  font-style: italic;
+}
+
+.contact {
+  text-align: left;
+  width: 100%;
+  font-size: 20px;
+  color: white;
+}
+
+#items {
+  margin: 10px 10px;
+}
+
+h3 {
+  text-align: center;
+  text-transform: uppercase;
+  color: red;
+  text-decoration: underline;
+}
+
+.item12 {
+  display: grid;
+  grid-auto-flow: column;
+
+  text-align: center;
+}
+
+.item34 {
+  display: grid;
+  grid-auto-flow: column;
+
+  text-align: center;
+}
+
+.main {
+  background-image: url("/images/noize\ background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.it {
+  display: grid;
+  grid-auto-flow: column;
+  width: 100%;
+}
+
+.form input {
+  margin: 10px;
+}
+
+.form input::placeholder {
+  color: red;
+}
+
+.pr {
+  text-align: left;
+}
+
+.pr input {
+  width: 450px;
+  height: 80px;
+  font-weight: bold;
+}
+
+.btn {
+  width: 500px;
+}
+
+.message input {
+  width: 925px;
+  height: 150px;
+  text-align: start;
+}
+
+.btn button {
+  width: 925px;
+  height: 80px;
+  background-color: black;
+  color: red;
+  font-size: 50px;
+}
+
+img {
+  width: 1900px;
+  height: 1000px;
+}
+
+.noize {
+  text-align: center;
+  padding: 20px;
+  background-color: black;
+  color: antiquewhite;
+  font-size: 30px;
+}
+#imgss {
+  text-align: center;
+  width: 398px;
+  height: 158px;
+}
+.logos {
+  margin: 30px 30px;
+}
+
+#icon1 {
+  color: blue;
+  font-size: 70px;
+  margin: 30px 30px;
+}
+#icon2 {
+  margin: 30px 30px;
+  color: azure;
+  font-size: 70px;
+}
+#icon3 {
+  margin: 30px 30px;
+  color: red;
+  font-size: 70px;
+}
+#fasss {
+  color: bisque;
+  margin: 20px 20px;
+  font-size: 40px;
+  transition: 3.5s;
+}
+#fasss:hover {
+  color: rgb(0, 60, 255);
+  border-radius: 10px;
+  font-size: 14px;
+  
+}
+#farrr {
+  color: bisque;
+  margin: 20px 20px;
+  font-size: 40px;
+}
+#farrr:hover {
+  color: rgb(0, 60, 255);
+  border-radius: 10px;
+  font-size: 14px;
+  transition: 3.5s;
+}
+#gmail:hover {
+  padding-top: 10px;
+  color: rgb(255, 0, 200);
+  transition: 3s;
+  cursor: pointer;
+  border-radius: 40%;
+  background-color: blue;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  color: yellow;
+  background-color: rgb(0, 0, 0);
+  font-size: 30px;
+}
